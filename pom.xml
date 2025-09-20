@@ -30,8 +30,9 @@
 		<java.version>17</java.version>
 		<!-- Sonar -->
 		<sonar.host.url>http://172.31.31.136:9000</sonar.host.url>
-		<sonar.login>sqa_c494d0af8705224dbdc43741601e26c08c71cef6</sonar.login>
+		<sonar.login>${env.SONAR_TOKEN}</sonar.login>
 		<sonar.projectKey>onp:jacocoqa05:feature-123-PRUEBA</sonar.projectKey>
+		<sonar.projectName>jacocoqa05 feature-123-PRUEBA</sonar.projectName>
 	</properties>
 	<dependencies>
 		<!-- Spring Web -->
