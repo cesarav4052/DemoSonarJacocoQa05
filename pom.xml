@@ -30,7 +30,7 @@
 		<java.version>17</java.version>
 		<!-- Sonar -->
 		<sonar.host.url>http://172.31.31.136:9000</sonar.host.url>
-		<sonar.login>tokenfijoprueba12</sonar.login>
+		<sonar.login>squ_00d229c7fb60fc188705abefa79aac9f346a91ff</sonar.login>
 		<sonar.projectKey>onp:jacocoqa05:feature-123-PRUEBA</sonar.projectKey>
 		<sonar.projectName>jacocoqa05 feature-123-PRUEBA</sonar.projectName>
 	</properties>

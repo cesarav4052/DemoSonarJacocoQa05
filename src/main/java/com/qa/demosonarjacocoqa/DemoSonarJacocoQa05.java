@@ -11,6 +11,8 @@ public class DemoSonarJacocoQa05 {
 
 	public static void main(String[] args) {
 		//Comentario 01
+		System.out.println("fdgfddyuyHKJT");
+		System.out.println("fdgfddyuyHKJT");
 		logger.info("Ingresando a proyecto DemoSonarJacocoQa04");
 		SpringApplication.run(DemoSonarJacocoQa05.class, args);
 	}
